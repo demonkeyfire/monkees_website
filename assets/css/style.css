@@ -1,0 +1,30 @@
+/*--------------------Colors-------------------*/
+
+.bg-color {
+    background-color: #E46627;
+}
+
+.menu-col {
+    color: white;
+}
+
+.font-col {
+    color: white;
+}
+
+/*-----------------Positioning-----------------*/
+
+.menu-pos {
+    float: right;
+    padding: 10px 10px 0 0;
+}
+
+.word-one {
+    float: left;
+}
+
+/*--------------------Fonts--------------------*/
+
+.font {
+    font-family: 'Lakki Reddy', cursive;
+}
