@@ -17,6 +17,7 @@
 .menu-pos {
     float: right;
     padding: 10px 10px 0 0;
+    position: sticky;
 }
 
 .word-one {
@@ -27,4 +28,23 @@
 
 .font {
     font-family: 'Lakki Reddy', cursive;
+}
+
+.menu-font {
+    font-size: 40px;
+}
+
+.title-font {
+    font-size: 40px;
+}
+
+/*--------------------Sizing--------------------*/
+
+
+/* -------------------Media Queries---------------------*/
+
+@media(min-width:568px) {
+    .fa-5x {
+
+    }
 }
